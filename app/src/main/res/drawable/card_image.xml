@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--21 Mei 2022-->
+<!--10119182-->
+<!--Aditya Firmansayah-->
+<!--IF-5-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/teal_200">
+
+    </solid>
+</shape>

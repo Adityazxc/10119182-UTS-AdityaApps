@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--21 Mei 2022-->
+<!--10119182-->
+<!--Aditya Firmansayah-->
+<!--IF-5-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        />
+
+
+    <item
+        android:id="@+id/galery"
+        android:icon="@drawable/ic_image"
+        android:title="Galery"
+        />
+
+
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/ic_music"
+        android:title="Music"
+        />
+
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"
+        />
+
+
+    <item
+        android:id="@+id/activity"
+        android:icon="@drawable/ic_activity"
+        android:title="Activity"
+        />
+
+</menu>
